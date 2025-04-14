@@ -1,11 +1,5 @@
 # Secure IoT Lock System with ESP32
 **Biometric + RFID smart lock with military-grade encryption and relay attack prevention**
-
-[![PlatformIO CI](https://github.com/Gifted87/esp32-secure-lock/actions/workflows/platformio.yml/badge.svg)](https://github.com/Gifted87/esp32-secure-lock/actions)
-
-![Architecture Diagram Placeholder](docs/architecture.png)
-*(Note: You need to create an `architecture.png` file in the `docs/` directory illustrating the system's security layers)*
-
 *Security layers: Hardware-secured keys (ATECC608A) • MQTT over TLS 1.2/1.3 • Anti-replay TOTP • Hardware AES Payload Encryption • Signed Commands*
 
 ## Key Innovations
