@@ -72,7 +72,7 @@ pio device monitor --environment esp32dev
 
 ## Deployment
 
-*   **Successfully deployed** in **3 commercial buildings** since Q4 2023.
+*   **Successfully deployed** in **multiple commercial buildings** since Q4 2023.
 *   Handles **500+ daily authentications** across deployed sites.
 *   **Zero security breaches** reported since deployment, demonstrating significant improvement over previous traditional systems.
 *   See `docs/DEPLOYMENT.md` for field installation considerations.
